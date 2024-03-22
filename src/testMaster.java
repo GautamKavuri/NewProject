@@ -9,8 +9,14 @@ public void testMaster {
 	system.xyd
 	syetem.123
 	
-	public class 123 ()
+	public class 123 (1)
 	
+	
+	yste.out.lm
+	system.out
+	system.xyd
+	syetem.123
+	test
 
 	
 	
